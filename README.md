@@ -5,11 +5,6 @@
 ### Full-Stack Developer · Odoo Developer · IT Engineer · IoT Enthusiast
 
 📍 Pasuruan, East Java, Indonesia &nbsp;|&nbsp; 🌐 [bustomi.my.id](https://www.bustomi.my.id) &nbsp;|&nbsp; 📧 Open to collaborations
-
-[![Profile Views](https://komarev.com/ghpvc/?username=yazid-bustomi&color=blue&style=flat-square)](https://github.com/yazid-bustomi)
-[![GitHub followers](https://img.shields.io/github/followers/yazid-bustomi?style=flat-square&color=blue)](https://github.com/yazid-bustomi?tab=followers)
-[![Portfolio](https://img.shields.io/badge/Portfolio-bustomi.my.id-blue?style=flat-square&logo=google-chrome)](https://www.bustomi.my.id)
-
 </div>
 
 ---
