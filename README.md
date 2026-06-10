@@ -32,9 +32,4 @@ Saya terbiasa menangani proyek dari sisi teknis secara menyeluruh — mulai dari
 ---
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yazid-bustomi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yazid-bustomi&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
