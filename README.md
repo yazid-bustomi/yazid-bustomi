@@ -6,10 +6,7 @@
 
 **Odoo Developer · Web Developer · Network Engineer · IT Engineer**
 
-📍 Pasuruan, Jawa Timur &nbsp;|&nbsp; 🌐 [bustomi.my.id](https://www.bustomi.my.id)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-bustomi.my.id-blue?style=flat-square&logo=google-chrome)](https://www.bustomi.my.id)
-[![Profile Views](https://komarev.com/ghpvc/?username=yazid-bustomi&color=blue&style=flat-square)](https://github.com/yazid-bustomi)
+📍 Pasuruan, East Java, Indonesia &nbsp;|&nbsp; 🌐 [bustomi.my.id](https://www.bustomi.my.id) &nbsp;|&nbsp; 📧 Open to collaborations
 
 </div>
 
