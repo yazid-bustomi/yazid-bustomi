@@ -24,9 +24,9 @@ Saya terbiasa menangani proyek dari sisi teknis secara menyeluruh — mulai dari
 |---|---|
 | **Odoo / ERP** | Python, XML, PostgreSQL, Odoo 14–17 |
 | **Web Development** | Laravel, PHP, JavaScript, MySQL, Bootstrap |
-| **Network Engineer** | MikroTik, Cisco, LAN/WAN, VPN, Fiber Optic |
+| **Network Engineer** | MikroTik, UniFi Dream Machine, LAN/WAN, VPN, Fiber Optic |
 | **IT Support** | Hardware, OS, Troubleshooting, Data Recovery |
-| **CCTV & Security** | Hikvision, Dahua, DVR/NVR, IP Camera |
+| **CCTV & Security** | Unifi, DVR/NVR, IP Camera |
 | **IoT / Arduino** | ESP8266, Arduino, C++, Sensor Integration |
 
 ---
