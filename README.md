@@ -22,7 +22,7 @@ Saya terbiasa menangani proyek dari sisi teknis secara menyeluruh — mulai dari
 
 | Bidang | Teknologi |
 |---|---|
-| **Odoo / ERP** | Python, XML, PostgreSQL, Odoo 14–17 |
+| **Odoo / ERP** | Python, XML, PostgreSQL, Odoo 16–19 |
 | **Web Development** | Laravel, PHP, JavaScript, MySQL, Bootstrap |
 | **Network Engineer** | MikroTik, UniFi Dream Machine, LAN/WAN, VPN, Fiber Optic |
 | **IT Support** | Hardware, OS, Troubleshooting, Data Recovery |
