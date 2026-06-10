@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/79684459?v=4" width="120" style="border-radius:50%"/>
-
-# Akhmad Yazid Bustomi
-
 **Odoo Developer · Web Developer · Network Engineer · IT Engineer**
 
 📍 Pasuruan, East Java, Indonesia &nbsp;|&nbsp; 🌐 [bustomi.my.id](https://www.bustomi.my.id) &nbsp;|&nbsp; 📧 Open to collaborations
