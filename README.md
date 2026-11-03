@@ -2,11 +2,11 @@
 
 # Akhmad Yazid Bustomi
 
-**Odoo Developer (Odoo 18) · ERP Customization & API Integration**
+**Odoo Developer**
 
-Pasuruan, East Java, Indonesia · open to remote freelance Odoo projects
+Pasuruan, East Java, Indonesia
 
-[Portfolio](https://portofolio-ulq8.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomi024@gmail.com) · [Download CV](https://portofolio-ulq8.vercel.app/Akhmad_Yazid_Bustomi_CV.pdf)
+[Portfolio](https://portofolio-ulq8.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomi024@gmail.com)
 
 </div>
 
@@ -14,16 +14,15 @@ Pasuruan, East Java, Indonesia · open to remote freelance Odoo projects
 
 ### About
 
-I customize Odoo to fit how a business actually runs. For the past two years I have developed and maintained the
-**Odoo 18 ERP** of a manufacturing group in East Java: **PT. Omega Mas** (Pasuruan) and its expansion company,
-**PT. Windu Karya Design** (Surabaya).
+Odoo developer at **PT. Omega Mas** (Pasuruan) and its expansion company **PT. Windu Karya Design** (Surabaya).
+Since November 2024 I have developed and maintained the group's Odoo ERP.
 
-- **30+ custom Odoo 18 modules** across Accounting, Inventory, Purchase, Sales and Manufacturing
-- **ERP sub-system integration:** co-developer of a PHP/MySQL production app synced with Odoo through JSON-RPC (`execute_kw`), with contributions to 45+ of its modules
-- **Two-site infrastructure:** built WKD's UniFi network from scratch (UDM Pro, switches, access points, CCTV with UNVR) and monitor the site-to-site VPN between both factories every day
-- **Credentials:** Odoo Development Training by PT Arkana Solusi Digital (Odoo Gold Partner) and BNSP competency certifications; bachelor's degree in Information Systems & Technology (GPA 3.80)
+- 30+ custom Odoo modules for Accounting, Inventory, Purchase, Sales and Manufacturing
+- Co-developer of a PHP/MySQL production application that exchanges data with Odoo through JSON-RPC
+- Network infrastructure for both sites: UniFi network for the Surabaya factory and a site-to-site VPN to Pasuruan
+- Odoo Development Training (PT Arkana Solusi Digital); bachelor's degree in Information Systems and Technology
 
-### Open-source Odoo 18 modules
+### Odoo modules
 
 | Module | What it does |
 |---|---|
@@ -46,7 +45,7 @@ I customize Odoo to fit how a business actually runs. For the past two years I h
 
 | Area | Tools |
 |---|---|
-| **Odoo / ERP** | Odoo 18, Python, ORM, XML views, QWeb & XLSX reports, PostgreSQL, multi-company |
+| **Odoo** | Python, ORM, XML views, QWeb reports, PostgreSQL, multi-company |
 | **Integration & web** | Odoo JSON-RPC / XML-RPC, REST APIs, PHP, MySQL, Laravel, JavaScript, React, Git |
 | **Infrastructure** | Ubiquiti UniFi (UDM Pro, site-to-site VPN, UniFi Protect / UNVR), VLAN, MikroTik, Linux, QNAP NAS |
 
@@ -54,6 +53,6 @@ I customize Odoo to fit how a business actually runs. For the past two years I h
 
 <div align="center">
 
-Need an Odoo developer? Reach me at **[bustomi024@gmail.com](mailto:bustomi024@gmail.com)** or on [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/).
+Contact: [bustomi024@gmail.com](mailto:bustomi024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/)
 
 </div>
