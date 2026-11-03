@@ -6,7 +6,7 @@
 
 Pasuruan, East Java, Indonesia
 
-[Portfolio](https://portofolio-ulq8.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomi024@gmail.com)
+[Portfolio](https://www.yazid-bustomi.my.id/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomi024@gmail.com)
 
 </div>
 
