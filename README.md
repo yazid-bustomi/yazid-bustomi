@@ -2,7 +2,7 @@
 
 # Akhmad Yazid Bustomi
 
-**Odoo Developer Odoo Developer | Odoo API Integration | Network Engineer | IT Infrastructure & Service Specialist **
+**Odoo Developer Odoo Developer | Network Engineer | IT Infrastructure & Service Specialist**
 
 Pasuruan, East Java, Indonesia
 
