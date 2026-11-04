@@ -6,7 +6,7 @@
 
 Pasuruan, East Java, Indonesia
 
-[Portfolio](https://www.yazid-bustomi.my.id/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomi024@gmail.com)
+[Portfolio](https://www.yazid-bustomi.my.id/) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/) · [Email](mailto:bustomiy143@gmail.com)
 
 </div>
 
@@ -53,6 +53,6 @@ Since November 2024 I have developed and maintained the group's Odoo ERP.
 
 <div align="center">
 
-Contact: [bustomi024@gmail.com](mailto:bustomi024@gmail.com) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/)
+Contact: [bustomiy143@gmail.com](mailto:bustomiy143@gmail.com) · [LinkedIn](https://www.linkedin.com/in/it-yazid-bustomi/)
 
 </div>
